@@ -5,7 +5,7 @@ https://qiita.com/mkunu/items/7f82fef8e06b6274a5a7 に載せてあるのでそ�
 |ファイル名|補足説明|
 |:--|:--|
 |Dflt.jpg|総飛行時間に対する「はやぶさ２」の総飛行距離|
-Trajectory_20180226.txt|データファイル（出典　http://www.hayabusa2.jaxa.jp/topics/20180228/）|
+Trajectory_20180226.txt|データファイル（出典　http://www.hayabusa2.jaxa.jp/topics/20180228/　）|
 alpha_delta.gif|地球に対する「はやぶさ２」の位置のGIF|
 haya2.gif|「はやぶさ２」、地球、リュウグウの位置のGIF|
 haya2.plt|haya2.gifを作るためのプログラムその1|
